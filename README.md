@@ -1,7 +1,7 @@
 # University_Java_Assignment
 An assignment that was submitted for a second-year university module named "Algorithm Design and Data Structures". The project was coded in Java and achieved a first.
 
-The brief was to solve a 9 by 9 sudoku. The code should pass all of the test provided (found in the tests folder) hwich are all solving pre generated grids. The program should also generate solvable sudokus for the user to solve, difficulty depending on the users choice.
+The brief was to solve a 9 by 9 sudoku. The code should pass all of the test provided (found in the tests folder) which are all solving pre generated grids. The program should also generate solvable sudokus for the user to solve, difficulty depending on the users choice.
 
 -------------------What the project contains----------------------------------------------
 
